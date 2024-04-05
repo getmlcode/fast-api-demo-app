@@ -1,0 +1,7 @@
+2024-04-04 17:04:02,516 - INFO - {'url': '/swagger-ui/', 'method': 'GET', 'process_time': 0.0010001659393310547}
+2024-04-04 17:04:03,090 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.00099945068359375}
+2024-04-04 17:04:24,392 - INFO - {'url': '/doc', 'method': 'GET', 'process_time': 0.0}
+2024-04-04 17:04:41,758 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0017428398132324219}
+2024-04-04 17:04:42,546 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.07300305366516113}
+2024-04-04 17:04:58,596 - INFO - {'url': '/blog/1', 'method': 'GET', 'process_time': 0.06622481346130371}
+2024-04-04 17:05:18,401 - INFO - {'url': '/blog/2', 'method': 'GET', 'process_time': 0.01999664306640625}
