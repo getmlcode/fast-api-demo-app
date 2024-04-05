@@ -9,4 +9,4 @@ It is based on few youtube tutorials merged together
 * [ ] FastApi middleware for intercepting ang logging each request
 * [ ] FastApi security
   
-![](swagger ss1.png)
+![]([swagger ss1.png](https://github.com/getmlcode/fast-api-demo-app/blob/master/swagger%20ss2.png))
