@@ -5,3 +5,7 @@
 2024-04-04 17:04:42,546 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.07300305366516113}
 2024-04-04 17:04:58,596 - INFO - {'url': '/blog/1', 'method': 'GET', 'process_time': 0.06622481346130371}
 2024-04-04 17:05:18,401 - INFO - {'url': '/blog/2', 'method': 'GET', 'process_time': 0.01999664306640625}
+2024-04-05 19:19:43,076 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.001001119613647461}
+2024-04-05 19:19:43,534 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.030005216598510742}
+2024-04-05 19:20:19,384 - INFO - {'url': '/all/blog', 'method': 'GET', 'process_time': 0.0040476322174072266}
+2024-04-05 19:21:14,404 - INFO - {'url': '/blog/2', 'method': 'GET', 'process_time': 0.05468487739562988}
