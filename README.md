@@ -8,3 +8,5 @@ It is based on few youtube tutorials merged together
 * [ ] SQL Alchemy for database mapping
 * [ ] FastApi middleware for intercepting ang logging each request
 * [ ] FastApi security
+  
+![](swagger ss1.png)
